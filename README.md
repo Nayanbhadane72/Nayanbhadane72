@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Nayan+Bhadane;Full+Stack+Developer;Open+Source+Contributor;Cyber_Security+Enthusiast;)](https://git.io/typing-svg)
+Hey👋 !!!!  I'm  Nayan Bhadane
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Cyber_Security+Enthusiast;)](https://git.io/typing-svg)
 
 
 <div id="badges">
