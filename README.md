@@ -1,10 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Nayanbhadane72&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Nayan+Bhadane;Full+Stack+Developer;Open+Source+Contributor;Cyber Security+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Nayan+Bhadane;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <div id="badges">
