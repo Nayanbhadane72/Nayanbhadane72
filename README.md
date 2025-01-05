@@ -1,6 +1,10 @@
-## Hi there 👋
 
-#  MySelf Nayan Bhadane.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Nayan+Bhadane;Full+Stack+Developer;Open+Source+Contributor;Cyber Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
+
 <div id="badges">
 <a href="https://www.linkedin.com/in/nayan-bhadane-256240227">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
