@@ -2,7 +2,7 @@
 
 #  MySelf Nayan Bhadane.
 <div id="badges">
-<a href="www.linkedin.com/in/nayan-bhadane-256240227L">
+<a href="[www.linkedin.com/in/nayan-bhadane-256240227L](https://www.linkedin.com/in/nayan-bhadane-256240227/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <!--
