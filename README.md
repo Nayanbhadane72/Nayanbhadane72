@@ -6,7 +6,7 @@ Hey👋 !!!!  I'm  Nayan Bhadane
 <a href="https://www.linkedin.com/in/nayan-bhadane-256240227">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="YOUR_PORTFOLIO_LINK"> 
+<a href="https://nayanbhadane72.github.io/nayans-personal-portfolio/"> 
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/> </a> 
 </div>
 <!--
