@@ -6,6 +6,9 @@ Hey👋 !!!!  I'm  Nayan Bhadane
 <a href="https://www.linkedin.com/in/nayan-bhadane-256240227">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<a href="YOUR_PORTFOLIO_LINK"> 
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/> </a> 
+</div>
 <!--
 **Nayanbhadane72/Nayanbhadane72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
